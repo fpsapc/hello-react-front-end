@@ -28,10 +28,7 @@
 
 # 📚🎵🎮 Hello Rails Frontend <a name="about-project"></a>
 
-**Hello Rails Frontend** In this project I am going to use an API created with <a href="https://github.com/fpsapc/hello-react-back-end">hello-rails-back-end</a> app. 
-
-
-
+**Hello Rails Frontend** In this project I am going to use an API created with <a href="https://github.com/fpsapc/hello-rails-back-end">hello-rails-back-end</a> app. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
